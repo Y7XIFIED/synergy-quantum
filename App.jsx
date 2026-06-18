@@ -140,7 +140,7 @@ function App() {
       </div>
 
       <header className="site-header" style={{ opacity: 0.6, fontSize: '0.9em' }}>
-        <div>Y7XIFIED // 2026</div>
+        <div>SYNERGY QUANTUM</div>
       </header>
 
       <div className="container">
