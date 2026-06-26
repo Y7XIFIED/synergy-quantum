@@ -1,11 +1,13 @@
-# menuxl-text-displacement
+<h3 align="center"><b>SYNERGY-QUANTUM</b></h3>
 
-Live Deployment: [Vercel App](https://menuxl-text-displacement-gt2ygkdeu-yugank.vercel.app)
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite,threejs,react" /></p>
 
-## Local Development
-1. Install dependencies: `npm install`
-2. Start the development server: `npm run dev`
+Experience an incredible interactive journey. This visually stunning piece of code is designed to wow and engage!
 
-Made by Y7XIFIED
+## 🚀 Live Website
+Experience the fully interactive website live here: [https://menuxl-text-displacement-gt2ygkdeu-yugank.vercel.app](https://menuxl-text-displacement-gt2ygkdeu-yugank.vercel.app)
 
+## Preview
 ![Preview Demo](preview.gif)
+
+<div align="center"><p>Y7XIFIED</p></div>
