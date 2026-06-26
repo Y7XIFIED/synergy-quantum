@@ -1,4 +1,4 @@
-<h3 align="center"><b>SYNERGY-QUANTUM</b></h3>
+<h3 align="center"><b>Synergy-Quantum</b></h3>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite,threejs,react" /></p>
 
