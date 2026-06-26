@@ -18,8 +18,8 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Y7XIFIED/synergy-quantum.git
-cd synergy-quantum
+git clone https://github.com/Y7XIFIED/Synergy-Quantum.git
+cd Synergy-Quantum
 ```
 2. Install the package dependencies:
 ```bash
@@ -32,7 +32,7 @@ npm run dev
 
 ## 📂 Project Structure
 ```text
-synergy-quantum/
+Synergy-Quantum/
 ├── .gitignore
 ├── .vercel
 │   ├── project.json
